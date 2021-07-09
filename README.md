@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan Zhang</h1>
 <h3 align="center">A passionate frontend developer from China Hanghou</h3>
 
-- 📝 I regularly write articles on [tyrmars.github.io](tyrmars.github.io)
+- 📝 I regularly write articles on [tyrmars.github.io](https://tyrmars.github.io)
 
 - 💬 Ask me about **react**
 
